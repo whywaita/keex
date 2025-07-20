@@ -1,5 +1,8 @@
 # Changelog
 
+## [v0.1.6](https://github.com/whywaita/keex/compare/v0.1.5...v0.1.6) - 2025-07-20
+- feat: add test coverage reporting by @whywaita in https://github.com/whywaita/keex/pull/34
+
 ## [v0.1.5](https://github.com/whywaita/keex/compare/v0.1.4...v0.1.5) - 2025-07-17
 - Delete settings.local.json by @whywaita in https://github.com/whywaita/keex/pull/22
 - feat: add dotenv and compose output formats to keex CLI by @whywaita in https://github.com/whywaita/keex/pull/32
