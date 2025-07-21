@@ -1,5 +1,9 @@
 # Changelog
 
+## [v0.1.7](https://github.com/whywaita/keex/compare/v0.1.6...v0.1.7) - 2025-07-21
+- Bump k8s.io/cli-runtime from 0.33.2 to 0.33.3 by @dependabot[bot] in https://github.com/whywaita/keex/pull/36
+- Bump helm/kind-action from 1.9.0 to 1.12.0 by @dependabot[bot] in https://github.com/whywaita/keex/pull/40
+
 ## [v0.1.6](https://github.com/whywaita/keex/compare/v0.1.5...v0.1.6) - 2025-07-20
 - feat: add test coverage reporting by @whywaita in https://github.com/whywaita/keex/pull/34
 
