@@ -1,5 +1,8 @@
 # Changelog
 
+## [v0.1.9](https://github.com/whywaita/keex/compare/v0.1.8...v0.1.9) - 2025-08-11
+- Bump github/codeql-action from 3.29.7 to 3.29.8 by @dependabot[bot] in https://github.com/whywaita/keex/pull/45
+
 ## [v0.1.8](https://github.com/whywaita/keex/compare/v0.1.7...v0.1.8) - 2025-08-04
 - Bump github/codeql-action from 3.29.2 to 3.29.4 by @dependabot[bot] in https://github.com/whywaita/keex/pull/42
 - Bump github/codeql-action from 3.29.4 to 3.29.5 by @dependabot[bot] in https://github.com/whywaita/keex/pull/44
