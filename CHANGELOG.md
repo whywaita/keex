@@ -1,5 +1,9 @@
 # Changelog
 
+## [v0.1.10](https://github.com/whywaita/keex/compare/v0.1.9...v0.1.10) - 2025-08-19
+- Bump k8s.io/api from 0.33.3 to 0.33.4 by @dependabot[bot] in https://github.com/whywaita/keex/pull/49
+- Bump k8s.io/cli-runtime from 0.33.3 to 0.33.4 by @dependabot[bot] in https://github.com/whywaita/keex/pull/50
+
 ## [v0.1.9](https://github.com/whywaita/keex/compare/v0.1.8...v0.1.9) - 2025-08-19
 - Bump github/codeql-action from 3.29.7 to 3.29.8 by @dependabot[bot] in https://github.com/whywaita/keex/pull/45
 - Bump github/codeql-action from 3.29.8 to 3.29.9 by @dependabot[bot] in https://github.com/whywaita/keex/pull/53
