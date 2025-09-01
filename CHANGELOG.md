@@ -1,5 +1,9 @@
 # Changelog
 
+## [v0.1.11](https://github.com/whywaita/keex/compare/v0.1.10...v0.1.11) - 2025-09-01
+- build(deps): Bump k8s.io/client-go from 0.33.4 to 0.34.0 by @dependabot[bot] in https://github.com/whywaita/keex/pull/60
+- build(deps): Bump k8s.io/cli-runtime from 0.33.4 to 0.34.0 by @dependabot[bot] in https://github.com/whywaita/keex/pull/57
+
 ## [v0.1.10](https://github.com/whywaita/keex/compare/v0.1.9...v0.1.10) - 2025-08-26
 - Bump k8s.io/api from 0.33.3 to 0.33.4 by @dependabot[bot] in https://github.com/whywaita/keex/pull/49
 - Bump k8s.io/cli-runtime from 0.33.3 to 0.33.4 by @dependabot[bot] in https://github.com/whywaita/keex/pull/50
