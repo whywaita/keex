@@ -1,5 +1,14 @@
 # Changelog
 
+## [v0.1.12](https://github.com/whywaita/keex/compare/v0.1.11...v0.1.12) - 2025-09-16
+- build(deps): Bump actions/setup-go from 5.5.0 to 6.0.0 by @dependabot[bot] in https://github.com/whywaita/keex/pull/66
+- build(deps): Bump Songmu/tagpr from 1.7.0 to 1.8.0 by @dependabot[bot] in https://github.com/whywaita/keex/pull/64
+- build(deps): Bump codecov/codecov-action from 5.5.0 to 5.5.1 by @dependabot[bot] in https://github.com/whywaita/keex/pull/65
+- build(deps): Bump github/codeql-action from 3.29.11 to 3.30.1 by @dependabot[bot] in https://github.com/whywaita/keex/pull/63
+- build(deps): Bump github/codeql-action from 3.30.1 to 3.30.3 by @dependabot[bot] in https://github.com/whywaita/keex/pull/73
+- build(deps): Bump Songmu/tagpr from 1.8.0 to 1.9.0 by @dependabot[bot] in https://github.com/whywaita/keex/pull/72
+- build(deps): Bump github.com/spf13/cobra from 1.9.1 to 1.10.1 by @dependabot[bot] in https://github.com/whywaita/keex/pull/62
+
 ## [v0.1.11](https://github.com/whywaita/keex/compare/v0.1.10...v0.1.11) - 2025-09-01
 - build(deps): Bump k8s.io/client-go from 0.33.4 to 0.34.0 by @dependabot[bot] in https://github.com/whywaita/keex/pull/60
 - build(deps): Bump k8s.io/cli-runtime from 0.33.4 to 0.34.0 by @dependabot[bot] in https://github.com/whywaita/keex/pull/57
