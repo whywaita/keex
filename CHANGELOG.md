@@ -1,5 +1,10 @@
 # Changelog
 
+## [v0.1.13](https://github.com/whywaita/keex/compare/v0.1.12...v0.1.13) - 2025-10-07
+- build(deps): Bump k8s.io/api from 0.34.0 to 0.34.1 by @dependabot[bot] in https://github.com/whywaita/keex/pull/71
+- build(deps): Bump k8s.io/client-go from 0.34.0 to 0.34.1 by @dependabot[bot] in https://github.com/whywaita/keex/pull/68
+- build(deps): Bump k8s.io/cli-runtime from 0.34.0 to 0.34.1 by @dependabot[bot] in https://github.com/whywaita/keex/pull/70
+
 ## [v0.1.12](https://github.com/whywaita/keex/compare/v0.1.11...v0.1.12) - 2025-09-16
 - build(deps): Bump actions/setup-go from 5.5.0 to 6.0.0 by @dependabot[bot] in https://github.com/whywaita/keex/pull/66
 - build(deps): Bump Songmu/tagpr from 1.7.0 to 1.8.0 by @dependabot[bot] in https://github.com/whywaita/keex/pull/64
