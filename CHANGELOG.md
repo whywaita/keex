@@ -1,5 +1,8 @@
 # Changelog
 
+## [v0.1.14](https://github.com/whywaita/keex/compare/v0.1.13...v0.1.14) - 2025-10-13
+- build(deps): Bump github/codeql-action from 3.30.3 to 4.30.8 by @dependabot[bot] in https://github.com/whywaita/keex/pull/77
+
 ## [v0.1.13](https://github.com/whywaita/keex/compare/v0.1.12...v0.1.13) - 2025-10-07
 - build(deps): Bump k8s.io/api from 0.34.0 to 0.34.1 by @dependabot[bot] in https://github.com/whywaita/keex/pull/71
 - build(deps): Bump k8s.io/client-go from 0.34.0 to 0.34.1 by @dependabot[bot] in https://github.com/whywaita/keex/pull/68
