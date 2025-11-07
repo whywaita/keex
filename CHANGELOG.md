@@ -1,5 +1,9 @@
 # Changelog
 
+## [v0.1.16](https://github.com/whywaita/keex/compare/v0.1.15...v0.1.16) - 2025-11-07
+- build(deps): Bump github/codeql-action from 4.30.8 to 4.31.0 by @dependabot[bot] in https://github.com/whywaita/keex/pull/82
+- build(deps): Bump github/codeql-action from 4.31.0 to 4.31.2 by @dependabot[bot] in https://github.com/whywaita/keex/pull/84
+
 ## [v0.1.15](https://github.com/whywaita/keex/compare/v0.1.14...v0.1.15) - 2025-10-13
 - fix: Update Go version to 1.24.6 to fix vulnerability GO-2025-3956 by @whywaita in https://github.com/whywaita/keex/pull/80
 
