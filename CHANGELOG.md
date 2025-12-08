@@ -1,5 +1,17 @@
 # Changelog
 
+## [v0.1.17](https://github.com/whywaita/keex/compare/v0.1.16...v0.1.17) - 2025-12-08
+- fix: upgrade Go version to 1.25 to fix vulnerabilities by @whywaita in https://github.com/whywaita/keex/pull/100
+- build(deps): Bump actions/checkout from 5.0.0 to 6.0.1 by @dependabot[bot] in https://github.com/whywaita/keex/pull/99
+- build(deps): Bump k8s.io/api from 0.34.1 to 0.34.2 by @dependabot[bot] in https://github.com/whywaita/keex/pull/94
+- build(deps): Bump actions/setup-go from 6.0.0 to 6.1.0 by @dependabot[bot] in https://github.com/whywaita/keex/pull/89
+- build(deps): Bump github.com/spf13/cobra from 1.10.1 to 1.10.2 by @dependabot[bot] in https://github.com/whywaita/keex/pull/97
+- build(deps): Bump golangci/golangci-lint-action from 8.0.0 to 9.2.0 by @dependabot[bot] in https://github.com/whywaita/keex/pull/96
+- build(deps): Bump github/codeql-action from 4.31.2 to 4.31.7 by @dependabot[bot] in https://github.com/whywaita/keex/pull/98
+- build(deps): Bump k8s.io/client-go from 0.34.1 to 0.34.2 by @dependabot[bot] in https://github.com/whywaita/keex/pull/93
+- build(deps): Bump k8s.io/cli-runtime from 0.34.1 to 0.34.2 by @dependabot[bot] in https://github.com/whywaita/keex/pull/92
+- build(deps): Bump helm/kind-action from 1.12.0 to 1.13.0 by @dependabot[bot] in https://github.com/whywaita/keex/pull/85
+
 ## [v0.1.16](https://github.com/whywaita/keex/compare/v0.1.15...v0.1.16) - 2025-11-07
 - build(deps): Bump github/codeql-action from 4.30.8 to 4.31.0 by @dependabot[bot] in https://github.com/whywaita/keex/pull/82
 - build(deps): Bump github/codeql-action from 4.31.0 to 4.31.2 by @dependabot[bot] in https://github.com/whywaita/keex/pull/84
