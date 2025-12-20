@@ -1,5 +1,14 @@
 # Changelog
 
+## [v0.1.18](https://github.com/whywaita/keex/compare/v0.1.17...v0.1.18) - 2025-12-20
+- build(deps): Bump k8s.io/api from 0.34.2 to 0.34.3 by @dependabot[bot] in https://github.com/whywaita/keex/pull/106
+- build(deps): Bump k8s.io/client-go from 0.34.2 to 0.34.3 by @dependabot[bot] in https://github.com/whywaita/keex/pull/105
+- build(deps): Bump github/codeql-action from 4.31.7 to 4.31.8 by @dependabot[bot] in https://github.com/whywaita/keex/pull/109
+- build(deps): Bump Songmu/tagpr from 1.9.0 to 1.10.0 by @dependabot[bot] in https://github.com/whywaita/keex/pull/108
+- build(deps): Bump codecov/codecov-action from 5.5.1 to 5.5.2 by @dependabot[bot] in https://github.com/whywaita/keex/pull/107
+- build(deps): Bump k8s.io/apimachinery from 0.34.2 to 0.34.3 by @dependabot[bot] in https://github.com/whywaita/keex/pull/103
+- build(deps): Bump k8s.io/cli-runtime from 0.34.2 to 0.34.3 by @dependabot[bot] in https://github.com/whywaita/keex/pull/104
+
 ## [v0.1.17](https://github.com/whywaita/keex/compare/v0.1.16...v0.1.17) - 2025-12-08
 - fix: upgrade Go version to 1.25 to fix vulnerabilities by @whywaita in https://github.com/whywaita/keex/pull/100
 - build(deps): Bump actions/checkout from 5.0.0 to 6.0.1 by @dependabot[bot] in https://github.com/whywaita/keex/pull/99
