@@ -1,5 +1,11 @@
 # Changelog
 
+## [v0.1.19](https://github.com/whywaita/keex/compare/v0.1.18...v0.1.19) - 2026-01-04
+- Add workflow-telemetry-action by @whywaita in https://github.com/whywaita/keex/pull/102
+- Remove workflow-telemetry in tagpr by @whywaita in https://github.com/whywaita/keex/pull/114
+- Grouping kubernetes modules in dependabot by @whywaita in https://github.com/whywaita/keex/pull/113
+- build(deps): Bump github/codeql-action from 4.31.8 to 4.31.9 by @dependabot[bot] in https://github.com/whywaita/keex/pull/111
+
 ## [v0.1.18](https://github.com/whywaita/keex/compare/v0.1.17...v0.1.18) - 2025-12-20
 - build(deps): Bump k8s.io/api from 0.34.2 to 0.34.3 by @dependabot[bot] in https://github.com/whywaita/keex/pull/106
 - build(deps): Bump k8s.io/client-go from 0.34.2 to 0.34.3 by @dependabot[bot] in https://github.com/whywaita/keex/pull/105
