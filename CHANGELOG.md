@@ -1,5 +1,8 @@
 # Changelog
 
+## [v0.1.20](https://github.com/whywaita/keex/compare/v0.1.19...v0.1.20) - 2026-01-04
+- Fix release workflow not triggering via tagpr by @whywaita in https://github.com/whywaita/keex/pull/115
+
 ## [v0.1.19](https://github.com/whywaita/keex/compare/v0.1.18...v0.1.19) - 2026-01-04
 - Add workflow-telemetry-action by @whywaita in https://github.com/whywaita/keex/pull/102
 - Remove workflow-telemetry in tagpr by @whywaita in https://github.com/whywaita/keex/pull/114
