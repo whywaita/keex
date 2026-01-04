@@ -11,6 +11,11 @@ updates:
     labels:
       - "dependencies"
       - "go"
+    groups:
+      kubernetes:
+        patterns:
+          - "k8s.io/*"
+          - "sigs.k8s.io/*"
 
   - package-ecosystem: "github-actions"
     directory: "/"
