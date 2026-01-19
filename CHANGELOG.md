@@ -1,5 +1,10 @@
 # Changelog
 
+## [v0.1.22](https://github.com/whywaita/keex/compare/v0.1.21...v0.1.22) - 2026-01-19
+- build(deps): Bump actions/setup-go from 6.1.0 to 6.2.0 by @dependabot[bot] in https://github.com/whywaita/keex/pull/119
+- build(deps): Bump github/codeql-action from 4.31.9 to 4.31.10 by @dependabot[bot] in https://github.com/whywaita/keex/pull/120
+- build(deps): Bump Songmu/tagpr from 1.11.0 to 1.11.1 by @dependabot[bot] in https://github.com/whywaita/keex/pull/121
+
 ## [v0.1.21](https://github.com/whywaita/keex/compare/v0.1.20...v0.1.21) - 2026-01-13
 - build(deps): Bump Songmu/tagpr from 1.10.0 to 1.11.0 by @dependabot[bot] in https://github.com/whywaita/keex/pull/117
 
