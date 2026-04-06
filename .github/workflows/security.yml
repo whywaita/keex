@@ -20,7 +20,7 @@ jobs:
     steps:
       - uses: whywaita/workflow-telemetry-action@use_quickchart
       - uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd # v6.0.2
-      - uses: actions/setup-go@7a3fe6cf4cb3a834922a1244abfce67bcef6a0c5 # v6.2.0
+      - uses: actions/setup-go@4a3601121dd01d1626a1e23e37211e3254c1c06c # v6.4.0
         with:
           go-version-file: 'go.mod'
       - name: Run Gosec Security Scanner
@@ -28,7 +28,7 @@ jobs:
         with:
           args: '-no-fail -fmt sarif -out results.sarif ./...'
       - name: Upload SARIF file
-        uses: github/codeql-action/upload-sarif@45cbd0c69e560cd9e7cd7f8c32362050c9b7ded2 # v4.32.2
+        uses: github/codeql-action/upload-sarif@c10b8064de6f491fea524254123dbe5e09572f13 # v4.35.1
         with:
           sarif_file: results.sarif
 
@@ -38,7 +38,7 @@ jobs:
     steps:
       - uses: whywaita/workflow-telemetry-action@use_quickchart
       - uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd # v6.0.2
-      - uses: actions/setup-go@7a3fe6cf4cb3a834922a1244abfce67bcef6a0c5 # v6.2.0
+      - uses: actions/setup-go@4a3601121dd01d1626a1e23e37211e3254c1c06c # v6.4.0
         with:
           go-version-file: 'go.mod'
       - name: Install govulncheck
