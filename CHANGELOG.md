@@ -1,5 +1,14 @@
 # Changelog
 
+## [v0.1.24](https://github.com/whywaita/keex/compare/v0.1.23...v0.1.24) - 2026-05-31
+- fix(deps): update Go 1.26.3 & golang.org/x/net v0.55.0 — resolve all 7 vulns by @whywaita in https://github.com/whywaita/keex/pull/161
+- build(deps): Bump the kubernetes group across 1 directory with 4 updates by @dependabot[bot] in https://github.com/whywaita/keex/pull/147
+- build(deps): Bump Songmu/tagpr from 1.18.1 to 1.19.0 by @dependabot[bot] in https://github.com/whywaita/keex/pull/153
+- build(deps): Bump goreleaser/goreleaser-action from 7.0.0 to 7.2.2 by @dependabot[bot] in https://github.com/whywaita/keex/pull/156
+- build(deps): Bump github/codeql-action from 4.35.1 to 4.36.0 by @dependabot[bot] in https://github.com/whywaita/keex/pull/157
+- build(deps): Bump codecov/codecov-action from 6.0.0 to 6.0.1 by @dependabot[bot] in https://github.com/whywaita/keex/pull/158
+- build(deps): Bump golangci/golangci-lint-action from 9.2.0 to 9.2.1 by @dependabot[bot] in https://github.com/whywaita/keex/pull/159
+
 ## [v0.1.23](https://github.com/whywaita/keex/compare/v0.1.22...v0.1.23) - 2026-04-06
 - build(deps): Bump actions/checkout from 6.0.1 to 6.0.2 by @dependabot[bot] in https://github.com/whywaita/keex/pull/123
 - build(deps): Bump github/codeql-action from 4.31.10 to 4.32.2 by @dependabot[bot] in https://github.com/whywaita/keex/pull/128
