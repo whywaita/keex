@@ -1,5 +1,8 @@
 # Changelog
 
+## [v0.1.25](https://github.com/whywaita/keex/compare/v0.1.24...v0.1.25) - 2026-10-25
+- Bump minimum Go toolchain to 1.27.3 (GO-2026-6809) by @whywaita in https://github.com/whywaita/keex/pull/187
+
 ## [v0.1.24](https://github.com/whywaita/keex/compare/v0.1.23...v0.1.24) - 2026-05-31
 - fix(deps): update Go 1.26.3 & golang.org/x/net v0.55.0 — resolve all 7 vulns by @whywaita in https://github.com/whywaita/keex/pull/161
 - build(deps): Bump the kubernetes group across 1 directory with 4 updates by @dependabot[bot] in https://github.com/whywaita/keex/pull/147
